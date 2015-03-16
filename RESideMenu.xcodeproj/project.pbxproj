@@ -9,9 +9,9 @@
 /* Begin PBXBuildFile section */
 		17BD7BBD1AB6F1310080F5D5 /* RESideMenu.h in Headers */ = {isa = PBXBuildFile; fileRef = 17BD7BBC1AB6F1310080F5D5 /* RESideMenu.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		17BD7BD41AB6F15A0080F5D5 /* RESideMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 17BD7BD31AB6F15A0080F5D5 /* RESideMenu.m */; };
-		17BD7BD91AB6F1610080F5D5 /* RECommonFunctions.h in Headers */ = {isa = PBXBuildFile; fileRef = 17BD7BD51AB6F1610080F5D5 /* RECommonFunctions.h */; };
+		17BD7BD91AB6F1610080F5D5 /* RECommonFunctions.h in Headers */ = {isa = PBXBuildFile; fileRef = 17BD7BD51AB6F1610080F5D5 /* RECommonFunctions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		17BD7BDA1AB6F1610080F5D5 /* RECommonFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 17BD7BD61AB6F1610080F5D5 /* RECommonFunctions.m */; };
-		17BD7BDB1AB6F1610080F5D5 /* UIViewController+RESideMenu.h in Headers */ = {isa = PBXBuildFile; fileRef = 17BD7BD71AB6F1610080F5D5 /* UIViewController+RESideMenu.h */; };
+		17BD7BDB1AB6F1610080F5D5 /* UIViewController+RESideMenu.h in Headers */ = {isa = PBXBuildFile; fileRef = 17BD7BD71AB6F1610080F5D5 /* UIViewController+RESideMenu.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		17BD7BDC1AB6F1610080F5D5 /* UIViewController+RESideMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 17BD7BD81AB6F1610080F5D5 /* UIViewController+RESideMenu.m */; };
 /* End PBXBuildFile section */
 
