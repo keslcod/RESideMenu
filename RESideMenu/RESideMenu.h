@@ -34,11 +34,9 @@
 
 @interface RESideMenu : UIViewController <UIGestureRecognizerDelegate>
 
-#if __IPHONE_8_0
 @property (strong, readwrite, nonatomic) IBInspectable NSString *contentViewStoryboardID;
 @property (strong, readwrite, nonatomic) IBInspectable NSString *leftMenuViewStoryboardID;
 @property (strong, readwrite, nonatomic) IBInspectable NSString *rightMenuViewStoryboardID;
-#endif
 
 @property (strong, readwrite, nonatomic) UIViewController *contentViewController;
 @property (strong, readwrite, nonatomic) UIViewController *leftMenuViewController;
