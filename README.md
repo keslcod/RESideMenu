@@ -21,36 +21,17 @@ Build and run the `RESideMenuExample` project in Xcode to see `RESideMenu` in ac
 
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
-Use this fork until @romaonthego merged the changes.
+The recommended approach for installating `RESideMenu` is via the [CocoaPods](http://cocoapods.org/) or [Carthage](https://github.com/Carthage/Carthage) package manager, as it provides flexible dependency management and dead simple installation.
 
 ```
-gthub "keslcod/RESideMenu" "carthage"
+github "keslcod/RESideMenu" "carthage"
 ``` 
 
 ### CocoaPods
 
-The recommended approach for installating `RESideMenu` is via the [CocoaPods](http://cocoapods.org/) package manager, as it provides flexible dependency management and dead simple installation.
-For best results, it is recommended that you install via CocoaPods >= **0.28.0** using Git >= **1.8.0** installed via Homebrew.
-
-Install CocoaPods if not already available:
-
-``` bash
-$ [sudo] gem install cocoapods
-$ pod setup
-```
-
-Change to the directory of your Xcode project:
-
-``` bash
-$ cd /path/to/MyProject
-$ touch Podfile
-$ edit Podfile
-```
-
 Edit your Podfile and add RESideMenu:
 
 ``` bash
-platform :ios, '6.0'
 pod 'RESideMenu', '~> 4.0.7'
 ```
 
