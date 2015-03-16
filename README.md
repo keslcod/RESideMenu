@@ -19,6 +19,14 @@ Build and run the `RESideMenuExample` project in Xcode to see `RESideMenu` in ac
 
 ## Installation
 
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
+Use this fork until @romaonthego merged the changes.
+
+```
+gthub "keslcod/RESideMenu" "carthage"
+``` 
+
 ### CocoaPods
 
 The recommended approach for installating `RESideMenu` is via the [CocoaPods](http://cocoapods.org/) package manager, as it provides flexible dependency management and dead simple installation.
